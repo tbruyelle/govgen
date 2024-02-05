@@ -84,7 +84,7 @@ PRs opened before adequate design discussion has taken place in a GitHub issue h
 
 ## Project Board
 
-We use self-organizing principles to coordinate and collaborate across organizations in structured "EPICs" that focus on specific problem domains or architectural components of GovGen. For details, see the [GitHub Project board](https://github.com/orgs/govgen/projects/28/views/11). 
+We use self-organizing principles to coordinate and collaborate across organizations in structured "EPICs" that focus on specific problem domains or architectural components of GovGen.
 
 ## Architecture Decision Records (ADR)
 
