@@ -73,7 +73,7 @@ but _maintaining_ that change over the years has a much higher cost that the ste
 
 To ensure a smooth workflow for all contributors, a general procedure for contributing has been established.
 
-1. Start by browsing [existing issues](https://github.com/atomone-hub/govgen/issues) and [discussions](https://githubatomone-hub/atomone-hub/govgen/discussions). If you are looking for something interesting or if you have something in your mind, there is a chance it had been discussed.
+1. Start by browsing [existing issues](https://github.com/atomone-hub/govgen/issues) and [discussions](https://github.com/atomone-hub/govgen/discussions). If you are looking for something interesting or if you have something in your mind, there is a chance it had been discussed.
    * Looking for a good place to start contributing? How about checking out some [good first issues](https://github.com/atomone-hub/govgen/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) or [bugs](https://github.com/atomone-hub/govgen/issues?q=is%3Aopen+is%3Aissue+label%3Abug)?
 2. Determine whether a GitHub issue or discussion is more appropriate for your needs:
    1. If you want to propose something new that requires specification or an additional design, or you would like to change a process, start with a [new discussion](https://github.com/atomone-hub/govgen/discussions/new/choose). With discussions, we can better handle the design process using discussion threads. A discussion usually leads to one or more issues.
